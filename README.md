@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nithin C</h1>
+<h1 align="center">Hi 👋, I'm Nithin Reddy C</h1>
 <h3 align="center">Python Full Stack Developer | E&CE Engineering Student at SVCE Bangalore</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithin-c-2917" alt="nithin-c-2917" /></a> </p>
