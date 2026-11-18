@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nithin C</h1>
-<h3 align="center">Python Full Stack Developer | E&CE Engineering Student at SVCE Bangalore</h3>
+<h3 align="center">Software Testing with java selenium| E&CE Engineering Student at SVCE Bangalore</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithin-c-2917" alt="nithin-c-2917" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development with Python**
+- 🌱 I’m currently learning **Software Testing with java Selenium**
 
-- 💬 Ask me about **Python,MySQL,PowerBI**
+- 💬 Ask me about **Manual Testing,Core Java,API Testing Using POSTMAN,SQL**
 
 - 📫 How to reach me **nithinc2917@gmail.com I promise I respond faster than my Wi-Fi.**
 
